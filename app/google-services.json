@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "552884771420",
+    "project_id": "myapplication-de8c0",
+    "storage_bucket": "myapplication-de8c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552884771420:android:3c4a2461f2ac91d8e82499",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552884771420-2tjs2tt10uq9vjnak75vo48kss8etl2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCue-vpYiZm6VDiGR36tWJwZTWxcyUAb8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552884771420-2tjs2tt10uq9vjnak75vo48kss8etl2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552884771420:android:8778dafb7dea80e0e82499",
+        "android_client_info": {
+          "package_name": "com.example.ecoaible"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552884771420-2tjs2tt10uq9vjnak75vo48kss8etl2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCue-vpYiZm6VDiGR36tWJwZTWxcyUAb8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552884771420-2tjs2tt10uq9vjnak75vo48kss8etl2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
